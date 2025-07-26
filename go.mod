@@ -25,7 +25,7 @@ require (
 	github.com/spf13/cobra v1.8.1
 	github.com/spf13/viper v1.18.2
 	github.com/stretchr/testify v1.10.0
-	github.com/xtls/xray-core v1.250725.0
+	github.com/xtls/xray-core v1.250726.0
 	golang.org/x/crypto v0.40.0
 	golang.org/x/net v0.42.0
 	golang.org/x/time v0.7.0
@@ -55,7 +55,6 @@ require (
 	github.com/CloudyKit/fastprinter v0.0.0-20200109182630-33d98a066a53 // indirect
 	github.com/CloudyKit/jet/v6 v6.2.0 // indirect
 	github.com/Joker/jade v1.1.3 // indirect
-	github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0 // indirect
 	github.com/OpenDNS/vegadns2client v0.0.0-20180418235048-a3fa4a771d87 // indirect
 	github.com/Shopify/goreferrer v0.0.0-20220729165902-8cddb4f5de06 // indirect
 	github.com/akamai/AkamaiOPEN-edgegrid-golang v1.2.2 // indirect
@@ -259,7 +258,7 @@ require (
 	github.com/vmihailenco/msgpack/v5 v5.4.1 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
 	github.com/vultr/govultr/v2 v2.17.2 // indirect
-	github.com/xtls/reality v0.0.0-20250723121014-c6320729d93b // indirect
+	github.com/xtls/reality v0.0.0-20250725142056-5b52a03d4fb7 // indirect
 	github.com/yandex-cloud/go-genproto v0.0.0-20240311082839-58e1a7554a75 // indirect
 	github.com/yandex-cloud/go-sdk v0.0.0-20240311083148-81c0846b96cd // indirect
 	github.com/yosssi/ace v0.0.5 // indirect
